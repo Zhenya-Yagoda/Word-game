@@ -3,9 +3,9 @@
 # The 6.0001 Word Game
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 #
-# Name          : <your name>
+# Name          : YAGODA EUGENIA
 # Collaborators : <your collaborators>
-# Time spent    : <total time>
+# Time spent    : 5 days
 
 import math
 import random
